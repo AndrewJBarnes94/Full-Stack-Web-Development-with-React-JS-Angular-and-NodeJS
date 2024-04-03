@@ -1,0 +1,6 @@
+div {
+    width: 256px;
+    height: 512px;
+
+    border: black solid 5px;
+}
