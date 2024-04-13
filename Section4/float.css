@@ -1,0 +1,24 @@
+.blue {
+    width: 100px;
+    height: 100px;
+    background-color: #0000ff;
+    float: left;
+}
+
+.yellow {
+    width: 100px;
+    height: 100px;
+    background-color: #ffff00;
+    float: left;
+}
+
+.green {
+    width: 200px;
+    height: 200px;
+    background-color: #00ff00;
+    clear: both;
+    margin-left: 350px;
+    box-shadow: 7px 6px 5px black;
+    border-radius: 40px;
+    transform: rotate(45deg);
+}
